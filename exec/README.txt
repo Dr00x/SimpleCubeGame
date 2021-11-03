@@ -1,0 +1,1 @@
+TO RUN THE GAME AS AN EXECUTABLE, ON LINUX, GO TO "dist/main/" and make "chmod +x main" AND RUN THE MAIN FILE WITH DOB CLICK
